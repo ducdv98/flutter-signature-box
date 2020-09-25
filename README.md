@@ -1,14 +1,12 @@
-# signature_box
+# Signature Box widget
 
-A new Flutter package project.
+A box which allows user sign and submit the result to handle your business.
+Easy to use and customize.
 
-## Getting Started
+## Usage 
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+To use this widget, just add the import statement:
+```import 'package:signature_box/signature_box.dart';```
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+and use it like other widgets
+```SignatureBox(width: 300, height: 200, onChanged: (value) {})```
