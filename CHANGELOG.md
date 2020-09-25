@@ -1,3 +1,1 @@
-## [0.0.1] - TODO: Add release date.
-
-* TODO: Describe initial release.
+## [1.0.0] The first version of the `Signature Box`. Allow customize the box, included: the baseline, the box's decoration, the painter and clear button
