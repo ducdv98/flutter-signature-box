@@ -1,4 +1,4 @@
-# Signature Box widget
+## Signature Box widget
 
 A box which allows user sign and submit the result to handle your business.
 Easy to use and customize.
@@ -10,3 +10,5 @@ To use this widget, just add the import statement:
 
 and use it like other widgets
 ```SignatureBox(width: 300, height: 200, onChanged: (value) {})```
+
+![demo](https://media.giphy.com/media/SudJfMTWpnpWP8nAKP/giphy.gif "Signature box")
